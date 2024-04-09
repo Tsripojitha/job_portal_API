@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\jobportal\jobportal\bin\Debug\net8.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\hp\source\repos\jobportal\jobportal\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\hp\source\repos\jobportal\jobportal\bin\Debug\net8.0\jobportal.deps.json
+C:\Users\hp\source\repos\jobportal\jobportal\bin\Debug\net8.0\jobportal.runtimeconfig.json
+C:\Users\hp\source\repos\jobportal\jobportal\bin\Debug\net8.0\jobportal.dll
+C:\Users\hp\source\repos\jobportal\jobportal\bin\Debug\net8.0\jobportal.pdb
+C:\Users\hp\source\repos\jobportal\jobportal\obj\Debug\net8.0\jobportal.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\jobportal\jobportal\obj\Debug\net8.0\jobportal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\jobportal\jobportal\obj\Debug\net8.0\jobportal.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\jobportal\jobportal\obj\Debug\net8.0\jobportal.AssemblyInfo.cs
+C:\Users\hp\source\repos\jobportal\jobportal\obj\Debug\net8.0\jobportal.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\jobportal\jobportal\obj\Debug\net8.0\jobportal.dll
+C:\Users\hp\source\repos\jobportal\jobportal\obj\Debug\net8.0\refint\jobportal.dll
+C:\Users\hp\source\repos\jobportal\jobportal\obj\Debug\net8.0\jobportal.pdb
+C:\Users\hp\source\repos\jobportal\jobportal\obj\Debug\net8.0\jobportal.genruntimeconfig.cache
+C:\Users\hp\source\repos\jobportal\jobportal\obj\Debug\net8.0\ref\jobportal.dll
